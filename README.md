@@ -20,7 +20,7 @@ To get the frontend running locally:
 
 ## Getting startedMaking requests to the backend API
 
-For convenience, we have a live API server running at http://booksapi.nzlouis.com/doc.html for the application to make requests against. You can view the API spec here which contains all routes & responses for the server.
+For convenience, there is a live API server running at http://booksapi.nzlouis.com/doc.html for the application to make requests against. You can view the API spec here which contains all routes & responses for the server.
 
 The source code for the frontend can be found in the main books-react-bootstrap repo.
 
