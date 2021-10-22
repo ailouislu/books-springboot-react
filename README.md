@@ -1,6 +1,6 @@
 # books-springboot-react
 
-An online books system, implemented using springboot, H2, and JPA as the backend, react and react-bootstrap as the front end. Contains functions such as books and authors. The system uses many reusable components to improve the reusability of the project.
+An online books system, implemented using spring boot, H2, and JPA as the backend, react and react-bootstrap as the front end. Contains functions such as books and authors. The system uses many reusable components to improve the reusability of the project.
 
 ![](books-react-bootstrap/src/images/books.gif)
 
