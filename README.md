@@ -6,7 +6,7 @@ An online books system, implemented using spring boot, H2, and JPA as the backen
 
 ## Getting started
 
-You can view a live demo over at http://books.nzlouis.com
+You can view a live demo over at http://books.nzlouis.com:3000
 
 To get the backend running locally:
 
