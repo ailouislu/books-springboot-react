@@ -43,5 +43,6 @@ create table Books(
   dimensions                    varchar(50),
   ISBN                          varchar(50),
   Publisher                     varchar(50),
+  image                         varchar(500),
   constraint pk_books primary key (id)
 );

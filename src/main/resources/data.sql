@@ -72,7 +72,8 @@ insert into books values( '35147118','Lost and Found','My story of heartbreak an
                          'who offered to be her and Matt''s surrogate. Toni and her family''s story is one of ' ||
                          'almost unbelievable trial and tragedy, but also love, determination and incredible ' ||
                          'resilience and will strike a chord with anyone who has gone through difficult times.',
-                         '155x237x22','9781988547732','Pan Macmillan Australia');
+                         '155x237x22','9781988547732','Pan Macmillan Australia',
+                          'https://static-ppimages.freetls.fastly.net/product/9781988547732/9781988547732.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg');
 insert into books values( '9781760785024','Apples Never Fall','Liane Moriarty',
                           'Fiction','Trade Paperback','20/09/2021','Liane Moriarty',
                          29.99,37.99,496, true,
@@ -86,7 +87,8 @@ insert into books values( '9781760785024','Apples Never Fall','Liane Moriarty',
                          'history with fresh, frightened eyes. Is her disappearance related to their ' ||
                          'mysterious house guest from last year? Or were things never as rosy as they ' ||
                          'seemed in the Delaney household?',
-                         'H232xW155xS37','9781760785024','Pan Macmillan Australia');
+                         'H232xW155xS37','9781760785024','Pan Macmillan Australia',
+                          'https://static-ppimages.freetls.fastly.net/product/9781760785024.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg');
 insert into books values( '9781509840182','The Missing Sister','They will search the world to find her',
                           'Fiction','Trade Paperback','20/09/2021','Lucinda Riley',
                          29.99,37.99,400, true,
@@ -97,7 +99,8 @@ insert into books values( '9781509840182','The Missing Sister','They will search
                          'to discover their heritage, but they still have one question left ' ||
                          'unanswered: who and where is the seventh sister? They only have one ' ||
                          'clue - an image of a star-shaped emerald ring. The search to fi ...',
-                         'h234mm x w153mm','9781509840182','Pan Macmillan');
+                         'h234mm x w153mm','9781509840182','Pan Macmillan',
+                          'https://static-ppimages.freetls.fastly.net/product/9781509840199.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg');
 insert into books values( '9780008499723','Megamonster','From multi-million bestselling author',
                           'Kids','Paperback','06/07/2021','David Walliams',
                          22.99,37.99,496, true,
@@ -109,7 +112,8 @@ insert into books values( '9780008499723','Megamonster','From multi-million best
                          'are appalling, the school dinners are revolting and the teachers ' ||
                          'are terrifying - especially the mysterious Science teacher, Doctor ' ||
                          'Doktur. When Larker is ...',
-                         'H216xW135xS29','9780008499723','	HarperCollins Publishers');
+                         'H216xW135xS29','9780008499723','HarperCollins Publishers',
+                          'https://static-ppimages.freetls.fastly.net/product/9780008499723.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg');
 insert into books values( '9780473470807','Aroha''s Way','A children''s guide through emotions',
                           'Teen','Paperback','06/07/2021','Craig Phillips',
                          19.95,29.99,36, true,
@@ -120,5 +124,6 @@ insert into books values( '9780473470807','Aroha''s Way','A children''s guide th
                          'yet effective tools that everyone can use. From award-winning New Zealand ' ||
                          'author and illustrator, Craig Phillips, creator of The Adventures of Jack ' ||
                          'Scratch and Giants, Trolls, Witches, Beast ...',
-                         'H210xW225','9780473470807','Wildling Books');
+                         'H210xW225','9780473470807','Wildling Books',
+                          'https://static-ppimages.freetls.fastly.net/nielsens/9780473470807.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg');
 

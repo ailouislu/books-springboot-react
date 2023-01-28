@@ -55,6 +55,8 @@ public class Books {
 
     private String Publisher;
 
+    private String Image;
+
     public Books() {}
 
 }
