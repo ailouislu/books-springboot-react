@@ -1,10 +1,10 @@
-DROP TABLE IF EXISTS user;
-create table user(
+DROP TABLE IF EXISTS users;
+create table users(
   email      varchar(50),
   password        varchar(50),
   first_Name        varchar(50),
   last_Name        varchar(50),
-  constraint pk_user primary key (email)
+  constraint pk_users primary key (email)
 );
 
 DROP TABLE IF EXISTS genres;

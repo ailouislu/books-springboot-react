@@ -1,8 +1,8 @@
 
-insert into user values('10@gmail.com', 'RESEARCH', 'Louis', 'Augustine');
-insert into user values('20@gmail.com', 'RESEARCH', 'Tom', 'Smith');
-insert into user values('30@gmail.com', 'SALES', 'James', 'Hudson');
-insert into user values( '40@gmail.com','OPERATIONS', 'Peter', 'William');
+insert into users values('10@gmail.com', 'RESEARCH', 'Louis', 'Augustine');
+insert into users values('20@gmail.com', 'RESEARCH', 'Tom', 'Smith');
+insert into users values('30@gmail.com', 'SALES', 'James', 'Hudson');
+insert into users values( '40@gmail.com','OPERATIONS', 'Peter', 'William');
 
 insert into genres values( '5b21ca3eeb7f6fbccd471818','Fiction');
 insert into genres values( '5b21ca3eeb7f6fbccd471814','Non Fiction');

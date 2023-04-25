@@ -7,6 +7,7 @@ import lombok.Setter;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 
 /**
@@ -17,6 +18,7 @@ import javax.persistence.Id;
 @Getter
 @Setter
 @Schema(description = "A user object")
+@Table(name = "users")
 public class User {
 
     @Schema(description = "The email of the user.", allowableValues = "some.one@email.com",  required = true)
